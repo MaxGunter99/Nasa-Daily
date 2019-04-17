@@ -31,3 +31,23 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  height: auto;
+  width: 90%;
+  border-radius: 10px;
+}
+
+.explanation{
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  height: 100px;
+  width: 600px;
+  font-size: 2em;
+  border-radius: 10px;
+}
